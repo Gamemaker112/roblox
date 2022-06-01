@@ -1,0 +1,3 @@
+game.Workspace.Dice1.Anchored = false 
+wait(0.5) 
+game.Workspace.Dice2.Anchored = false
